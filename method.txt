@@ -28,3 +28,4 @@ Deploy Pod Network to Cluster
 sudo kubectl apply -f https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel.yml
 
 
+docker swarm join --token SWMTKN-1-0o26y40ymqh2bgn85eaex6ythbu0x0w4kpeywsrh154psw26vk-2q1p4dkime1lnyxoz8inrx1s7 192.168.232.129:2377
